@@ -9,7 +9,7 @@ const Color turquesa = Color(0xFF008C91);
 const Color azul = Color(0xFF142D4E);
 const Color fondo = Color(0xFFF7F9FC);
 
-// DATOS VACÍOS
+// DATO VACÍO
 final List sugerencias = [];
 final List incidencias = [];
 
